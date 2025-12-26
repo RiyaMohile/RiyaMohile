@@ -1,4 +1,4 @@
-This is Riya   
+                                                  This is Riya   
 
 I'm a self-taught MERN Stack developer passionate about building user-friendly, responsive web apps.
 
